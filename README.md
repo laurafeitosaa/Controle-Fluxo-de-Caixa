@@ -10,6 +10,5 @@ Este projeto consiste em uma aplicação de controle de fluxo de caixa desenvolv
 
 - **Interface Amigável: Oferece uma interface intuitiva e fácil de usar para facilitar o gerenciamento financeiro.
 
-Esta aplicação é ideal para quem deseja ter um controle mais organizado e detalhado das suas finanças pessoais ou empresariais.
 
 
